@@ -10,8 +10,8 @@ I can be reached either through this profile, [LinkedIn](https://www.linkedin.co
 
 ## Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jasperyeo&repo=sorting-visualizer)](https://github.com/jasperyeo/sorting-visualizer)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jasperyeo&repo=sorting-visualizer&theme=dark)](https://github.com/jasperyeo/sorting-visualizer)
 
 ## Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasperyeo&langs_count=10&layout=compact)](https://github.com/jasperyeo)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasperyeo&langs_count=10&layout=compact&theme=dark)](https://github.com/jasperyeo)
