@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**jasperyeo/jasperyeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Singapore-based multimedia designer and developer, a balanced combination of creative and technical qualities. I specialise in bridging the gap between designers and programmers, covering all areas and layers of media and software development.
 
-Here are some ideas to get you started:
+Throughout my entire tertiary education and career, I had been part of both small and big teams, creating rich user experiences through various aspects of design and development. Highly adaptable to the latest technologies and design trends, I can provide insights to facilitate better decisions for the team and company.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+While not at work, I read and swim. Accomplished lifeguard, diver, and food lover.
+
+I can be reached either through this profile, [LinkedIn](https://www.linkedin.com/in/yeoenghaijasper/), or by email at jasper.yeo.media@gmail.com.
+
+## Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jasperyeo&repo=sorting-visualizer)](https://github.com/jasperyeo/sorting-visualizer)
+
+## Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasperyeo&langs_count=10&layout=compact)](https://github.com/jasperyeo)
