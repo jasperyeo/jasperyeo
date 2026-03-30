@@ -15,11 +15,6 @@ While not at work, I read and swim. Accomplished lifeguard, diver, and food love
 
 I can be reached either through this profile, [LinkedIn](https://www.linkedin.com/in/yeoenghaijasper/), or by email at jasper.yeo.media@gmail.com.
 
-## Projects
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jasperyeo&show_owner=true&repo=sorting-visualizer&theme=dark)](https://github.com/jasperyeo/sorting-visualizer)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jasperyeo&show_owner=true&repo=us-presidents&theme=dark)](https://github.com/jasperyeo/us-presidents)
-
 ## Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jasperyeo&langs_count=10&layout=compact&theme=dark)](https://github.com/jasperyeo)
